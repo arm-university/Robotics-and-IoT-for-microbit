@@ -1,7 +1,7 @@
 # Robotics-and-IoT-for-microbit
 Take a journey of learning through the "Internet of Things" and Robotics. Learners apply Arm-based technology to solve interesting and authentic problems, using micro:bits and other exciting peripherals to create autonomous cars and smart cities.
 
-## [Download here](https://github.com/arm-university/arduino-projects-for-schools/archive/refs/heads/main.zip)
+## [Download here](https://github.com/arm-university/Robotics-and-IoT-for-microbit/archive/refs/heads/main.zip)
 
 ## Resource Aim
 Learners explore how to create an autonomous car which interacts with a smart city. Learners are immersed in a series of projects which involves rapid team-based development of a solution to meet specified criteria. 
@@ -39,7 +39,7 @@ Learners explore how to create an autonomous car which interacts with a smart ci
 - Evaluation
 
 ## License
-You are free to fork or clone this material. See [Licence.md](https://github.com/arm-university/arduino-projects-for-schools/blob/main/Licence) for the complete license.
+You are free to fork or clone this material. See [Licence.md](https://github.com/arm-university/Robotics-and-IoT-for-microbit/blob/main/Licence) for the complete license.
 
 ## Inclusive Language Commitment
 Arm is committed to making the language we use inclusive, meaningful, and respectful. Our goal is to remove and replace non-inclusive language from our vocabulary to reflect our values and represent our global ecosystem.
