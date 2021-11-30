@@ -39,7 +39,7 @@ Learners explore how to create an autonomous car which interacts with a smart ci
 - Evaluation
 
 ## License
-You are free to fork or clone this material. See [Licence.md](https://github.com/arm-university/Robotics-and-IoT-for-microbit/blob/main/Licence) for the complete license.
+You are free to fork or clone this material. See [Licence.md](https://github.com/arm-university/Robotics-and-IoT-for-microbit/blob/main/Licence.md) for the complete license.
 
 ## Inclusive Language Commitment
 Arm is committed to making the language we use inclusive, meaningful, and respectful. Our goal is to remove and replace non-inclusive language from our vocabulary to reflect our values and represent our global ecosystem.
