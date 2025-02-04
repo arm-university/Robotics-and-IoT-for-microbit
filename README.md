@@ -1,4 +1,4 @@
-# Robotics and IoT
+
 Take a journey of learning through the "Internet of Things" and Robotics. Learners apply Arm-based technology to solve interesting and authentic problems, using micro:bits and other exciting peripherals to create autonomous cars and smart cities.
 
 ## [Download here](https://github.com/arm-university/Robotics-and-IoT-for-microbit/archive/refs/heads/main.zip)
@@ -16,7 +16,7 @@ Learners explore how to create an autonomous car which interacts with a smart ci
 - Drawing pictures
 - Disco car
  
-## Race car and smart track (lessons 7-12)
+### Race car and smart track (lessons 7-12)
 
 - Light follower
 - Bit:bot race car branding
